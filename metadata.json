@@ -1,0 +1,5 @@
+{
+  "name": "Cineo",
+  "description": "A high-performance project explorer and AI assistant that allows you to upload your local codebase and collaborate with Gemini to debug, refactor, and extend your system.",
+  "requestFramePermissions": []
+}
